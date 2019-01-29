@@ -12,8 +12,7 @@ st->Condition?
 Condition?(yes)->Conditioncode->e
 Condition?(no)->e
 ```
-
-![1548777470173](C:\Users\18019\AppData\Roaming\Typora\typora-user-images\1548777470173.png)
+![1548777470173](https://user-images.githubusercontent.com/15357935/51924493-11f3e880-2428-11e9-8249-812a354d2ee4.png)
 
 ```python
 i = 20
