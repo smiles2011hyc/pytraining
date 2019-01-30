@@ -435,7 +435,7 @@ import re
 
 pattern1_1 = re.compile(r'^\d{11}$')
 pattern1_2 = re.compile(r'(^\d{3,4})(\W|_)*(\d{7,8})$')
-pattern1_3 = re.compile(r'^\d{4,6}')
+pattern1_3 = re.compile(r'^\d{4,6}$')
 while True:
     num = input('请输入您的电话号码：')
     if len(num) == 11 and re.match(pattern1_1,num):
