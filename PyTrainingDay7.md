@@ -293,9 +293,8 @@ t.circle(70,30)
 t.done()
 ```
 
-![1549031258687](C:\Users\18019\AppData\Roaming\Typora\typora-user-images\1549031258687.png)
-
-附：复线了别人的一个构建树的代码（python7天周期完结了，作为小白代码写的不好不要见笑，我以后会加油的，送20号和群里无私奉献的美女帅哥们一棵树，十年树木，百年树人）：
+![1549031258687](https://user-images.githubusercontent.com/15357935/52129044-82da1100-2671-11e9-9eee-96b5f6eb2977.png)
+附：复现了别人的一个构建树的代码（python7天周期完结了，作为小白代码写的不好不要见笑，我以后会加油的，送20号和群里无私奉献的美女帅哥们一棵树，十年树木，百年树人）：
 
 ```python
 # -*- coding: utf-8 -*-
@@ -382,4 +381,4 @@ tree(12, 100) # 递归7层
 done()
 ```
 
-![1549031417912](C:\Users\18019\AppData\Roaming\Typora\typora-user-images\1549031417912.png)
+![1549031417912](https://user-images.githubusercontent.com/15357935/52129050-853c6b00-2671-11e9-8e6d-e414be0a6564.png)
